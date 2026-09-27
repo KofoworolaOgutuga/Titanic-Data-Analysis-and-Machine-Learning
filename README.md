@@ -387,17 +387,3 @@ This project demonstrates experience with:
 * Scikit-learn
 * Matplotlib
 * Seaborn
-
----
-
-# Academic Project
-
-This project was completed as part of academic coursework in the **Honours Bachelor of Business Administration – Business Analytics** program at **George Brown Polytechnic**.
-
-The project demonstrates the application of data analytics and machine learning techniques to a real-world historical dataset.
-
----
-
-## Disclaimer
-
-This project is for academic and portfolio purposes. The Titanic dataset is a historical dataset used for demonstrating data analysis and machine learning techniques.
